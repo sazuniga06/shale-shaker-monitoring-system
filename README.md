@@ -14,7 +14,7 @@ The system implements a real-time monitoring and SCADA-compatible architecture f
 * **Connectivity:** ESP32 wireless module for data transmission to centralized servers.
 
 ## Repository Structure
-* `/hardware`: System schematics including power supply, sensor integration, and wireless module.
+* `/Hardware`: System schematics including power supply, sensor integration, and wireless module.
 * `/software/plc`: Logic implementation for industrial controllers (Structured Text - IEC 61131-3).
 * `/software/scripts`: Python algorithms for signal processing, filtering, and vibration shift detection.
 * `/docs`: Technical documentation, SCADA tag mapping, and sample vibration datasets.
