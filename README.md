@@ -3,8 +3,8 @@
 This repository contains the technical documentation, industrial logic, and hardware design for a modular monitoring system designed for oil production optimization. The system focuses on vibration analysis and early fault detection in shale shaker machines.
 
 ## Authors and CRediT Roles
-* **Hernán Paz Penagos:** Conceptualization, Methodology, Supervision, Project administration, Funding acquisition.
-* **Santiago Alejandro Zuñiga Melo:** Software, Validation, Data Curation, Hardware Design, Writing - Original Draft.
+* **Hernán Paz Penagos:** Conceptualization, Methodology, Software, Hardware, Supervision, Project administration, Resources, Writing - review & editing.
+* **Santiago Alejandro Zuñiga Melo:** Investigation, Formal analysis, Data curation, Validation, Visualization, Writing - original draft, Writing - review & editing.
 
 ## Project Overview
 The system implements a real-time monitoring and SCADA-compatible architecture for shale shaker diagnostics:
